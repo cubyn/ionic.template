@@ -1,0 +1,27 @@
+{
+  "name": "cubyn.mobile.template",
+  "version": "0.0.3",
+  "homepage": "https://github.com/cubyn/picker.scanner",
+  "authors": [
+    "nbeydoon <zero000@hotmail.fr>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "ionic/www/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.3",
+    "lumx": "~0.3.74",
+    "chai": "~3.2.0",
+    "mocha": "~2.2.5",
+    "angular-mocks": "~1.4.3",
+    "angular-ui-router": "~0.2.15",
+    "angular-sanitize": "~1.4.3",
+    "angular-animate": "~1.4.3"
+  }
+}
