@@ -15,9 +15,7 @@
     "ionic",
     "mobile",
     "cordova",
-    "qrcode",
-    "scanner",
-    "packaging"
+    "template"
   ],
   "author": "nbeydoon",
   "license": "ISC",
