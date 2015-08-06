@@ -16,7 +16,6 @@
   ],
   "dependencies": {
     "angular": "~1.4.3",
-    "lumx": "~0.3.74",
     "chai": "~3.2.0",
     "mocha": "~2.2.5",
     "angular-mocks": "~1.4.3",
