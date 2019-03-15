@@ -1,3 +1,5 @@
+:warning: **DEPRECATED** :warning:
+
 Cubyn Mobile Template
 ================
 
